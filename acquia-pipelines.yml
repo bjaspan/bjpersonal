@@ -6,3 +6,4 @@ events:
       - ssh:
           script:
             - echo done
+            - echo done2
